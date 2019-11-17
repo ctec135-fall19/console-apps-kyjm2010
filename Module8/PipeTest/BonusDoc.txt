@@ -1,0 +1,5 @@
+This is an example of 
+reading and outputting lines
+from an external text 
+document using CA1 and
+a foreach loop!
